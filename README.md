@@ -1,4 +1,4 @@
-# Containerized-Applications
+# Containerized Applications
 
 <br> 
 
