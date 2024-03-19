@@ -7,10 +7,12 @@
 
 Project Overview: Containerized Applications
 
-Introduction:
+### Introduction:
 Containerization has revolutionized the way applications are developed, deployed, and managed in modern IT environments. This project aims to provide Linux system administrators with a comprehensive guide to working with containerized applications. By leveraging containerization technologies such as Docker, Kubernetes, and container orchestration platforms, administrators can streamline application deployment, enhance scalability, improve resource utilization, and simplify management tasks.
 
-Objective:
+<br>
+
+### Objective:
 The primary objective of this project is to equip Linux system administrators with the knowledge and skills needed to effectively manage containerized applications in a production environment. This involves understanding containerization concepts, deploying containerized applications, configuring container orchestration, implementing security measures, and optimizing containerized infrastructure for performance and reliability.
 
 Key Components:
