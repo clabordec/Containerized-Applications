@@ -34,13 +34,13 @@ The primary objective of this project is to equip Linux system administrators wi
 
 ### Deliverables:
 
-Comprehensive documentation outlining containerization concepts, deployment procedures, configuration steps, and best practices for managing containerized applications.
-Configured container runtime environments, including Docker installations, container networks, storage configurations, and Kubernetes clusters.
-Deployed containerized applications demonstrating various deployment scenarios, such as single-container deployments, multi-container deployments, and orchestrated deployments with Kubernetes. <br>
-Implemented security measures to secure containerized environments, including image scanning, network segmentation, and access control policies.
-Monitoring and logging solutions configured to track container performance metrics, monitor container health, and analyze container logs.
-Automated CI/CD pipelines for building, testing, and deploying containerized applications, ensuring rapid and reliable delivery of updates.
-High availability solutions implemented to ensure the resilience and availability of containerized applications in production environments.
+- Comprehensive documentation outlining containerization concepts, deployment procedures, configuration steps, and best practices for managing containerized applications.
+- Configured container runtime environments, including Docker installations, container networks, storage configurations, and Kubernetes clusters.
+- Deployed containerized applications demonstrating various deployment scenarios, such as single-container deployments, multi-container deployments, and orchestrated deployments with Kubernetes.
+- Implemented security measures to secure containerized environments, including image scanning, network segmentation, and access control policies.
+- Monitoring and logging solutions configured to track container performance metrics, monitor container health, and analyze container logs.
+- Automated CI/CD pipelines for building, testing, and deploying containerized applications, ensuring rapid and reliable delivery of updates.
+- High availability solutions implemented to ensure the resilience and availability of containerized applications in production environments.
 
 <br>
 
