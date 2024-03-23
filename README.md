@@ -2,6 +2,8 @@
 
 The Containerized Applications repository is dedicated to providing Linux system administrators with resources and tools for managing and deploying containerized applications using containerization technologies such as Docker, Kubernetes, and Podman. This project aims to offer comprehensive documentation, configuration examples, and best practices to enable system administrators to leverage the power of containerization for efficient application deployment, scalability, and portability.
 
+<br>
+
 ### Key Features and Components
 
 - <b>Containerization Technologies</b>: Documentation and tutorials on containerization technologies, including Docker, Kubernetes, and Podman, explaining their concepts, architecture, and usage.
@@ -23,6 +25,8 @@ The Containerized Applications repository is dedicated to providing Linux system
 - <b>High Availability and Disaster Recovery</b>: Design of high availability architectures and disaster recovery plans for containerized applications, ensuring resilience and business continuity in the event of failures or outages.
 
 - <b>Documentation and Best Practices</b>: Creation of comprehensive documentation and best practices guides for managing and deploying containerized applications, covering topics such as container security, performance optimization, and troubleshooting.
+
+<br>
 
 ### Project Goals
 
