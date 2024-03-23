@@ -37,3 +37,8 @@ The Containerized Applications repository is dedicated to providing Linux system
 <br>
 
 By leveraging the resources and expertise provided in the "Containerized-Applications" repository, Linux system administrators can streamline the deployment process, improve application scalability and resilience, and embrace modern DevOps practices for efficient software delivery.
+
+
+<br>
+
+Distro: Ubuntu
