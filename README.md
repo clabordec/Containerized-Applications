@@ -41,4 +41,4 @@ By leveraging the resources and expertise provided in the "Containerized-Applica
 
 <br>
 
-Distro: Ubuntu
+Linux Distribution: Ubuntu
