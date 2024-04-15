@@ -41,4 +41,5 @@ By leveraging the resources and expertise provided in the "Containerized-Applica
 
 <br>
 
-Linux Distribution: CentOS 8
+Linux Distribution: CentOS
+Version: 8
