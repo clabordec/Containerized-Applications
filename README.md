@@ -41,5 +41,5 @@ By leveraging the resources and expertise provided in the "Containerized-Applica
 
 <br>
 
-Linux Distribution: Red Hat Enterprise Linux RHEL <br>
+Linux Distribution: Red Hat Enterprise Linux (RHEL) <br>
 Version: 8
