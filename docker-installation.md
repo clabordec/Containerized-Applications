@@ -74,3 +74,12 @@ docker version
 ```
 docker info
 ```
+
+### Show all commands used by docker
+```
+docker
+```
+or
+```
+docker help
+```
