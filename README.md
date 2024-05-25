@@ -37,5 +37,5 @@ The Containerized Applications repository is dedicated to providing Linux system
 <br>
 
 Linux Distribution: Ubuntu <br>
-Version: 22.04
+Version: 22.04 <br>
 Cloud Enviornment: Digital Ocean
