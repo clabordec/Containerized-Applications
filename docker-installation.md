@@ -19,6 +19,7 @@ The "old_docker.txt" file contains the following:
 - docker-doc
 - podman-docker
 
+<br>
 
 ### Add Docker's official GPG key:
 ```
