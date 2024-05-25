@@ -1,6 +1,5 @@
 ## Installing Docker
 
-<br>
 
 ### Uninstall old versions
 ```
