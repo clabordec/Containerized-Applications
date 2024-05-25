@@ -75,6 +75,8 @@ docker version
 docker info
 ```
 
+<br>
+
 ### Show all commands used by docker
 ```
 docker
