@@ -34,7 +34,6 @@ sudo chmod a+r /etc/apt/keyrings/docker.asc
 
 ### Add the repository to Apt sources:
 ```
-# Add the repository to Apt sources:
 echo \
   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
   $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | \
@@ -47,24 +46,31 @@ sudo apt-get update
 
 ### Install the latest version
 ```
- sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
 <br>
 
 ### Verify that the Docker Engine installation is successful by running the hello-world image
 ```
- sudo docker run hello-world
+sudo docker run hello-world
 ```
 
 <br>
 
 ### Check the Docker version
 ```
- docker --version
+docker --version
 ```
 
 For more details
 ```
 docker version
+```
+
+<br>
+
+### Check system wide information which includes the number of containers and images
+```
+docker info
 ```
