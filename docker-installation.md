@@ -52,7 +52,19 @@ sudo apt-get update
 
 <br>
 
-### Verify that the Docker Engine installation is successful by running the hello-world image.
+### Verify that the Docker Engine installation is successful by running the hello-world image
 ```
  sudo docker run hello-world
+```
+
+<br>
+
+### Check the Docker version
+```
+ docker --version
+```
+
+For more details
+```
+docker version
 ```
