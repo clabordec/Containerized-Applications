@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 This project aims to offer comprehensive documentation, configuration examples, and best practices to enable system administrators to leverage the power of containerization for efficient application deployment, scalability, and portability.
 
