@@ -4,7 +4,7 @@ This project aims to offer comprehensive documentation, configuration examples, 
 
 <br>
 
-### Key Features and Components
+## Key Features and Components
 
 - <b>Containerization Technologies</b>: Documentation and tutorials on containerization technologies, including Docker, Kubernetes, and Podman, explaining their concepts, architecture, and usage.
 
